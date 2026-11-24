@@ -1,12 +1,12 @@
 # CIPS International Procurement & Supply Chain Summit 2027 website
 
-Live site: https://www.cips2027.online
+Live site: https://www.comingsoon.com
 
 ## What's in this package
 
 | Folder | What it is |
 |---|---|
-| `website/` | The finished site, ready to upload to any web host. This is what runs at www.cips2027.online. |
+| `website/` | The finished site, ready to upload to any web host. This is what runs at www.comingsoon.online. |
 | `source/` | The editable source: page generator, stylesheet, script and images. Use it to make changes and rebuild `website/`. |
 | `google-sheet/` | The Google Apps Script (`Code.gs`) that receives registrations, nominations and payments, plus its setup guide (`SETUP.md`). |
 
